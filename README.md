@@ -20,3 +20,6 @@
 
 ### Start the application with specific port
 + PORT=3001 npm start
+
+### Access the application
++ http://localhost:3001
